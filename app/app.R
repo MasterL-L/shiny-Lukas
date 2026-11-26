@@ -35,7 +35,7 @@ server <- function(input, output) {
   output$grafico <- renderPlot({
     barplot(porcentaje(), names.arg = c("Hombres", "Mujeres"),
             ylim = c(0, 100), ylab = "Porcentaje de admitidos",
-            col = c("#555555", "steelblue"),
+            col = c("orange", "steelblue"),
             main = paste("Departamento:", input$depto))
   })
   output$tabla <- renderTable({

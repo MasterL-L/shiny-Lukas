@@ -1,0 +1,13 @@
+name: shiny-lukas
+title: shiny-lukas
+username: masterl-l
+account: masterl-l
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a2190b-7dd4-74c2-8afb-77b59b37a965
+appGuid:
+bundleId:
+url: https://connect.posit.cloud/masterl-l/content/01a2190b-7dd4-74c2-8afb-77b59b37a965
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
